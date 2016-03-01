@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/usr/local/anaconda/pkgs/ahl.mongo-1.251.0-py27_0'
+let g:netrw_dirhist_2='/usr/local/anaconda/pkgs/ahl.mongo-1.251.0-py27_0/info'
+let g:netrw_dirhist_3='/NImounts/Dev/Ccase/Views/bpendleton_alpha/vobs/alpha/scheds'
